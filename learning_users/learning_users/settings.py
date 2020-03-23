@@ -26,7 +26,7 @@ SECRET_KEY = '5$!mc37eovu5=p=ubpsepro**3l84#s6*l&_e@k1#4rmif#+ok'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [jiesun.pythonanywhere.com]
+ALLOWED_HOSTS = ["jiesun.pythonanywhere.com"]
 
 
 # Application definition
